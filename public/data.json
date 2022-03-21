@@ -1,0 +1,50 @@
+[
+  {
+    "id": "6237ee43121920669cad9d91",
+    "index": 0,
+    "guid": "623df4f0-044d-4474-a46e-3dbda5eacaf7",
+    "balance": "$1,823.40",
+    "picture": "http://placehold.it/32x32",
+    "name": "Silva Whitfield"
+  },
+  {
+    "id": "6237ee436909e67852126999",
+    "index": 1,
+    "guid": "ea942eab-a723-4fb7-8509-377b0ec30397",
+    "balance": "$3,404.41",
+    "picture": "http://placehold.it/32x32",
+    "name": "Leola Anderson"
+  },
+  {
+    "id": "6237ee430b86914701f80fb8",
+    "index": 2,
+    "guid": "d06b9da1-6c7a-49ef-96c8-417824205240",
+    "balance": "$1,072.66",
+    "picture": "http://placehold.it/32x32",
+    "name": "Rowe Osborn"
+  },
+  {
+    "id": "6237ee43913ac53e0bc1bbc0",
+    "index": 3,
+    "guid": "b06003ba-12dc-4d8e-bfea-00d204f7e65c",
+    "balance": "$1,586.69",
+    "picture": "http://placehold.it/32x32",
+    "name": "Herrera Adams"
+  },
+  {
+    "id": "6237ee432a2896dd4cd56550",
+    "index": 4,
+    "guid": "29c0036e-81f7-40a2-b4c4-8e2fafcd3d52",
+    "balance": "$1,129.75",
+    "picture": "http://placehold.it/32x32",
+    "name": "Leticia Newton"
+  },
+  {
+    "id": "6237ee43b2d8a37eb435cdf9",
+    "index": 5,
+    "guid": "0bf9c6a3-fa4d-4c24-9188-31aec3276dc3",
+    "balance": "$1,275.92",
+    "picture": "http://placehold.it/32x32",
+    "name": "Chaney Mccray"
+  }
+]
