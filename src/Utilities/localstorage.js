@@ -14,5 +14,12 @@ if(querry){
 
 localStorage.setItem("product-list",JSON.stringify(productData))
 }
-
-export {productDataSave};
+const deletCart=(id)=>{
+    const productCart = JSON.parse(localStorage.getItem('product-list'));
+    if(id in productCart){
+        delete productCart[id];
+        localStorage.setItem('product-list',JSON.stringify(productCart));
+    }
+    
+}
+export {productDataSave,deletCart};
