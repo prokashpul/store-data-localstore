@@ -1,5 +1,12 @@
+:root{
+  --body-bg: black;
+  --text-color: #fff;
+  --btn-bg:#fff;
+  --btn-color:#000;
+}
+
 body{
-  background-color: black;
-  color: aliceblue;
+  background-color: var(--body-bg);
+  color: var(--text-color);
   text-align: center;
 }

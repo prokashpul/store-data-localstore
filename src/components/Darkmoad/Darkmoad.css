@@ -1,0 +1,19 @@
+.darkmode{
+    padding: .5rem;
+    text-align: center;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+    border: 1px solid salmon;
+    font-size: 15px;
+    background-color: var(--btn-bg);
+    color: var(--btn-color)
+  }
+  
+  .dark-btn{
+    --body-bg:#fff ;
+    --text-color: black;
+    --btn-color:#fff;
+    --btn-bg:#000;
+  }
