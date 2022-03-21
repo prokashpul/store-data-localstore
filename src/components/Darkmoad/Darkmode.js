@@ -1,8 +1,9 @@
 import React from 'react';
+import { darkTheme } from '../../Utilities/dark';
 import "./Darkmoad.css"
 const Darkmode = () => {
 const darkLight =()=>{
-    console.log("yes")
+    darkTheme();
 }
     return (
         <div>

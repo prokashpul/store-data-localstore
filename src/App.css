@@ -10,3 +10,7 @@ body{
   color: var(--text-color);
   text-align: center;
 }
+button{
+  background-color: var(--btn-bg);
+  color: var(--btn-color);
+}

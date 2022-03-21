@@ -11,7 +11,7 @@
     color: var(--btn-color)
   }
   
-  .dark-btn{
+  .dark-light{
     --body-bg:#fff ;
     --text-color: black;
     --btn-color:#fff;
